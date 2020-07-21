@@ -1,0 +1,4 @@
+R5T.Aalborg.Construction - A construction console-app for the library R5T.Aalborg.
+
+Goals
+
