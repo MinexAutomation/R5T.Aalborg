@@ -1,0 +1,9 @@
+R5T.Aalborg - Authentication abstraction types library.
+
+Basic authentication with:
+
+* Username: string
+* Password: string
+
+Goals
+
