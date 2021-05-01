@@ -2,7 +2,7 @@
 using System.Net;
 
 
-namespace R5T.Aalborg.Extensions
+namespace R5T.Aalborg
 {
     public static class IAuthenticationExtensions
     {
